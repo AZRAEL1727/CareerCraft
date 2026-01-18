@@ -1,0 +1,3 @@
+[submodule "frontend/Social/frontend/Social/social_media_app"]
+	path = frontend/Social/frontend/Social/social_media_app
+	url = https://github.com/neilrosario27/nityam_specialz.git
